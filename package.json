@@ -31,7 +31,6 @@
   "dependencies": {
     "core-js": "^3.26.1",
     "dotenv": "^16.0.3",
-    "fractional": "^1.0.0",
     "fractions": "^1.0.2",
     "regenerator-runtime": "^0.13.10"
   }
