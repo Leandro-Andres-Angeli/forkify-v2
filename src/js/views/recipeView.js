@@ -1,5 +1,5 @@
 import icons from '../../img/icons.svg';
-import { Fraction } from 'fractional';
+// import { Fraction } from 'fractional';
 import View from './view';
 
 class RecipeView extends View {
@@ -120,11 +120,12 @@ ${this._data.ingredients
   href=${icons}#icon-check
   ></use>
 </svg>
+
 ${
   quantity && unit
-    ? ` <div class="recipe__quantity">${new Fraction(
-        Math.round(quantity * 2) / 2
-      ).toString()} <span class="recipe__unit">${unit}</span> </div>`
+    ? ` <div class="recipe__quantity">${
+        Math.round(quantity * 2) / (2).toString()
+      } <span class="recipe__unit">${unit}</span> </div>`
     : ''
 }
 <div class="recipe__description">
@@ -167,5 +168,13 @@ ${
 `;
   }
 }
-
+//CHECKING IF FRACTIONAL IT'S THE PROBLEM
+// ${
+//   quantity && unit
+//     ? ` <div class="recipe__quantity">${new Fraction(
+//         Math.round(quantity * 2) / 2
+//       ).toString()} <span class="recipe__unit">${unit}</span> </div>`
+//     : ''
+// }
+//CHECKING IF FRACTIONAL IT'S THE PROBLEM
 export default new RecipeView();
