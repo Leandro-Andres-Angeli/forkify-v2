@@ -123,12 +123,13 @@ ${this._data.ingredients
 </svg>
 
 ${
-  quantity && unit
-    ? ` <div class="recipe__quantity">${
-        Math.round(quantity * 2) / (2).toString()
-      } <span class="recipe__unit">${unit}</span> </div>`
-    : ''
+  (quantity &&
+    ` <div class="recipe__quantity">${new Fraction(
+      Math.round(quantity * 2) / 2
+    ).toString()} </div> `) ||
+  ''
 }
+${(unit && `  <span class="recipe__unit">${unit}</span>`) || ''}
 <div class="recipe__description">
   ${description}
   

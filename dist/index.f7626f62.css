@@ -653,6 +653,7 @@ body {
 }
 
 .recipe__ingredient {
+  gap: .25vw;
   display: flex;
 }
 
