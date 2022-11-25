@@ -79,9 +79,9 @@ function controlUpdateServings(value) {
     ? ((updatedRecipe = model.updateRecipe(value)),
       //importantComment
       //REPLACING RENDER METHOD FOR UPDATE
-      // recipeView.default.render(updatedRecipe);
-      recipeView.default.update(updatedRecipe))
-    : null;
+      recipeView.default.render(updatedRecipe))
+    : // recipeView.default.update(updatedRecipe)
+      null;
   //REPLACING RENDER METHOD FOR UPDATE
   //importantComment
 }

@@ -600,8 +600,7 @@ const controlSearchResults = async ()=>{
 function controlUpdateServings(value) {
     return +value > 0 ? (updatedRecipe = _model.updateRecipe(value), //importantComment
     //REPLACING RENDER METHOD FOR UPDATE
-    // recipeView.default.render(updatedRecipe);
-    _recipeView.default.update(updatedRecipe)) : null;
+    _recipeView.default.render(updatedRecipe)) : null;
 //REPLACING RENDER METHOD FOR UPDATE
 //importantComment
 }
@@ -3471,7 +3470,6 @@ var _fractions = require("fractions");
 // var Fraction = require('fractions');
 var _view = require("./view");
 var _viewDefault = parcelHelpers.interopDefault(_view);
-console.log(new _fractions(2.6).toString());
 class RecipeView extends (0, _viewDefault.default) {
     _errorMessage = "We could not find selected recipe.Please try another one!";
     _message;
