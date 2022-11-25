@@ -1,5 +1,3 @@
-import icons from '../../img/icons.svg';
-
 import View from './view';
 
 class addRecipeView extends View {
