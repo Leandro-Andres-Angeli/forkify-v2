@@ -2,7 +2,7 @@ import icons from '../../img/icons.svg';
 import * as Fraction from 'fractions';
 // var Fraction = require('fractions');
 import View from './view';
-console.log(new Fraction(2.6).toString());
+
 class RecipeView extends View {
   _errorMessage = 'We could not find selected recipe.Please try another one!';
   _message;
