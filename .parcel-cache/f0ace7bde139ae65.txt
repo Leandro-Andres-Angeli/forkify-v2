@@ -1,4 +1,4 @@
-8537
+8538
 142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\path-browserify\LICENSE133138543262971658 0
 162D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\node-resolver-core\test\resolver.js133138543345062987 0
 148D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\mdn-data\css\definitions.json133138543291787074 0
@@ -51,7 +51,7 @@
 130D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\randombytes133138543285537083 1
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\modules\es.date.to-string.js133138543404531178 0
 158D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\symbol\async-iterator.js133138543352062974 0
-110D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist133138606271164601 1
+110D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist133138648359714407 1
 178D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133138543319176805 0
 128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\hash-base133138543272351992 1
 140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\is-callable\README.md133138543289027062 0
@@ -77,7 +77,7 @@
 146D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\string\virtual133138543481608594 1
 140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\is-typed-array\.nycrc133138543270631918 0
 134D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\xxhash-wasm\cjs133138543279473206 1
-132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\views\recipeView.js133138603786904200 0
+132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\views\recipeView.js133138612506122446 0
 161D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133138543287747066 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\collection-weak.js133138543372473011 0
 146D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\path-browserify\security.md133138543310107068 0
@@ -180,6 +180,19 @@
 153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\features\weak-set\index.js133138543443938360 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\instance\trim-left.js133138543480618616 0
 118D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\package.json133138606950989034 0
+153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\object\is-frozen.js133138543448688448 0
+149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\string\index.js133138543442138375 0
+133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\views\resultsView.js133137958136483901 0
+142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\picocolors\package.json133138543272901889 0
+140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\posthtml\node_modules133138543220961650 1
+175D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133138543310707064 0
+160D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\typed-array\copy-within.js133138543382376872 0
+154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\package-manager\src\Pnpm.js133138543323889131 0
+154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\array\virtual\slice.js133138543469528648 0
+155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\es\array\virtual\includes.js133138543440908416 0
+142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\yaml\types\timestamp.js133138543327779449 0
+135D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\has\src\index.js133138543273931882 0
+115D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\README.md133138635292721489 0
 151D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\modules\es.string.big.js133138543413704092 0
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\node-resolver-core\test133138543344503022 1
 135D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\svgo\lib\path.js133138543326449396 0
@@ -278,7 +291,7 @@
 126D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\process133138543282153235 1
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\regions\FJ.js133138543398498325 0
 127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\sass\_recipe.scss133138606269194563 0
-127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\sass\_upload.scss132886955210000000 0
+127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\sass\_upload.scss133138648119492075 0
 152D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\electron-to-chromium\CHANGELOG.md133138543307747076 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\features\mathml.js133138543416454077 0
 153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\structured-clone.js133138543473968616 0
@@ -292,7 +305,7 @@
 147D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\es\object\has-own.js133138543440298329 0
 165D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\features\font-size-adjust.js133138543404651174 0
 159D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\features\reflect\get-metadata.js133138543438078419 0
-126D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\controller.js133138564023500908 0
+126D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\controller.js133138619103230607 0
 131D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\LICENSE133138543307967075 0
 149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\set\difference.js133138543387876871 0
 133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\yaml\scalar.js133138543324369404 0
@@ -317,15 +330,8 @@
 157D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\object\is-extensible.js133138543448268341 0
 123D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\helpers.js133137957652390999 0
 156D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\modules\es.aggregate-error.js133138543390676851 0
-121D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\model.js133138558567617855 0
+121D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\model.js133138618560053414 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\es\string\virtual\italics.js133138543449808388 0
-143D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\stream-http\package.json133138543281213174 0
-140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\elliptic\lib\elliptic133138543311317050 1
-157D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\error-stack-clear.js133138543390506897 0
-155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\features\tls1-3.js133138543428531407 0
-140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\weak-map133138543483548668 1
-127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\boolbase133138543268661658 1
-156D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\features\instance\includes.js133138543441028351 0
 164D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133138543287927066 0
 154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\array-includes.js133138543345652998 0
 118D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\views133138536914347367 1
@@ -362,10 +368,6 @@
 151D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\is-arguments\.github\FUNDING.yml133138543291747057 0
 144D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\which-typed-array\.github133138543290437069 1
 138D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\terser\package.json133138543336201935 0
-153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\object\is-frozen.js133138543448688448 0
-149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\string\index.js133138543442138375 0
-133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\src\js\views\resultsView.js133137958136483901 0
-142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\picocolors\package.json133138543272901889 0
 133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\dom-serializer133138543306147127 1
 157D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\observable-forced.js133138543457628605 0
 123D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\.bin133138543487968641 1
@@ -427,6 +429,13 @@
 147D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\logger\lib\Logger.js133138543267661672 0
 124D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\bn.js133138543276691900 1
 127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\domutils133138543311487070 1
+143D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\stream-http\package.json133138543281213174 0
+140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\elliptic\lib\elliptic133138543311317050 1
+157D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\error-stack-clear.js133138543390506897 0
+155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\features\tls1-3.js133138543428531407 0
+140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\weak-map133138543483548668 1
+127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\boolbase133138543268661658 1
+156D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\features\instance\includes.js133138543441028351 0
 125D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\braces133138543279563197 1
 161D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133138543343872995 1
 142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\diagnostic\test133138543275711892 1
@@ -1253,13 +1262,6 @@
 157D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133138543267201642 0
 138D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\yaml\types\pairs.js133138543312377072 0
 163D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133138543280823182 0
-140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\posthtml\node_modules133138543220961650 1
-175D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133138543310707064 0
-160D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\typed-array\copy-within.js133138543382376872 0
-154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\package-manager\src\Pnpm.js133138543323889131 0
-154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\array\virtual\slice.js133138543469528648 0
-155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\es\array\virtual\includes.js133138543440908416 0
-142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\yaml\types\timestamp.js133138543327779449 0
 141D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\yaml\browser\scalar.js133138543323989120 0
 156D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@swc\helpers\src\_to_property_key.mjs133138543363283013 0
 149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\yaml\dist\Document-9b4560a1.js133138543276381894 0
@@ -1328,11 +1330,6 @@
 164D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\package-manager\src\installPackage.js133138543313707054 0
 159D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\features\set\is-disjoint-from.js133138543448248414 0
 136D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\asn1.js\README.md133138543312257061 0
-150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\string\trim-end.js133138543480278615 0
-158D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\features\atob-btoa.js133138543327009392 0
-148D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\reflect\has.js133138543440408349 0
-148D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\parse-float.js133138543459038612 0
-145D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\diffie-hellman\.travis.yml133138543266891656 0
 140D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\xxhash-wasm\README.md133138543289597038 0
 151D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\modules\es.string.sup.js133138543414624079 0
 153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\instance\reverse.js133138543466488671 0
@@ -2366,8 +2363,8 @@
 134D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\pbkdf2\index.js133138543276491892 0
 154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\date\to-primitive.js133138543478228619 0
 134D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\sass\types\util133138543346713024 1
-135D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\sass\types\value133138543347263025 1
 161D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\path-browserify\test\test-path-basename.js133138543274671910 0
+135D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\sass\types\value133138543347263025 1
 139D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\process\package.json133138543262921615 0
 149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\object\proto.js133138543461798612 0
 144D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\reporter-cli\test133138543289467071 1
@@ -2533,7 +2530,7 @@
 137D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\dotenv\lib\main.js133138547448556461 0
 151D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\react-error-overlay\package.json133138543287167052 0
 138D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\date133138543479418636 1
-131D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\favicon.8b2f57bf.png133138603808094208 0
+131D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\favicon.8b2f57bf.png133138619131920598 0
 158D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\instance\is-well-formed.js133138543449538372 0
 139D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\randomfill\README.md133138543282103191 0
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\iterator\filter.js133138543427841396 0
@@ -3377,8 +3374,8 @@
 136D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\events\History.md133138543316197066 0
 168D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133138543350983013 0
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\htmlnano\lib\presets\ampSafe.js133138543267861637 0
-150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\instance\filter.js133138543427831418 0
 167D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133138543343443011 0
+150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\instance\filter.js133138543427831418 0
 168D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest3.c133138543344032990 0
 168D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133138543345003008 0
 172D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\array-method-has-species-support.js133138543346703007 0
@@ -3736,7 +3733,6 @@
 132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\has\README.md133138543270671861 0
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\regions\BW.js133138543346512998 0
 127D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\has\test133138543276571891 1
-135D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\has\src\index.js133138543273931882 0
 131D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\gopd\.github133138543286737054 1
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\instance\trim.js133138543481628629 0
 128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\gopd\test133138543273001889 1
@@ -4006,6 +4002,11 @@
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\features\typed-array\find.js133138543429861349 0
 164D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\internals\delete-property-or-throw.js133138543385696909 0
 150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\dom-serializer\lib\esm\index.js133138543276031907 0
+150D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\full\string\trim-end.js133138543480278615 0
+158D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\features\atob-btoa.js133138543327009392 0
+148D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\stable\reflect\has.js133138543440408349 0
+148D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\actual\parse-float.js133138543459038612 0
+145D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\diffie-hellman\.travis.yml133138543266891656 0
 133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.aa755040.css.map133138588335196812 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@lmdb\lmdb-win32-x64\node.abi83.node133138543313687037 0
 148D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\css-select\lib\index.d.ts.map133138543313007081 0
@@ -4089,7 +4090,6 @@
 147D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\csso\lib\restructure\prepare133138543328209429 1
 146D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\core-js\es\instance\sort.js133138543470968636 0
 156D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\csso\lib\restructure\prepare\index.js133138543326389377 0
-149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\Validation.js133138543371282994 0
 166D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\csso\lib\restructure\prepare\processSelector.js133138543327479434 0
 142D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\csso\lib\replace\atrule133138543326589401 1
 157D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\css-tree\lib\syntax\node\Combinator.js133138543311627061 0
@@ -7104,7 +7104,7 @@
 154D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\dist\unpacker\index.js133138543412904133 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\dist\unpacker\region.js133138543424691395 0
 152D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\dist\lib\statuses.js133138543426981398 0
-129D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\icons.21bad73c.svg133138603800624200 0
+129D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\icons.21bad73c.svg133138648136142085 0
 153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\dist\lib\supported.js133138543427281349 0
 155D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\caniuse-lite\data\browserVersions.js133138543345923029 0
 141D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\ansi-styles\index.d.ts133138543276621911 0
@@ -8309,6 +8309,7 @@
 158D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\ParcelConfig.schema.js133138543349453012 0
 153D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\Transformation.js133138543366952967 0
 144D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\types.js133138543367793030 0
+149D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\Validation.js133138543371282994 0
 145D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\worker.js133138543371472989 0
 165D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133138543319276809 0
 167D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133138543288957072 0
@@ -8529,10 +8530,10 @@
 132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.2d8e4a09.js.map133138588335206869 0
 128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.65e8720a.js133138589688340480 0
 132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.65e8720a.js.map133138589690080472 0
-128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.e37f48ea.js133138603800634200 0
-132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.e37f48ea.js.map133138603810114212 0
-129D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.f7626f62.css133138606270974617 0
-133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.f7626f62.css.map133138606271114581 0
-121D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.html133138603800624200 0
-128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\logo.726d37a8.png133138603804274194 0
+128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.e37f48ea.js133138648359334426 0
+132D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.e37f48ea.js.map133138648359674418 0
+129D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.f7626f62.css133138648355994409 0
+133D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.f7626f62.css.map133138648357344429 0
+121D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\index.html133138648136142085 0
+128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\logo.726d37a8.png133138619131910591 0
 128D:\proyectos\jonas-shmedtman-js\18 -Forkify App Building a Modern Application\10-Finished Project Forkify\dist\logo.8a7af738.png133138588317636863 0

@@ -761,7 +761,7 @@ body {
 }
 
 .upload__column input::placeholder {
-  color: #d3c7c3;
+  color: #2d2b2a;
 }
 
 .upload__column input:focus {
