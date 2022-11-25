@@ -9,5 +9,6 @@ and name , otherwise app throws an error message and user is notified.
 Project uses MVC architecture and publisher/subscriber pattern in order to establish the model and view interaction when data changes , this action is performed 
 in the controller .Project done in Vanilla JS , using Classes ,declarative programming and functional programming.Compiled using Parcel.CSS styles using Sass for
 better structure and faster development.To calculate fractions I used Fractions.js.
-Remaining console.log's in code for better understanding purposes in case someone what's to check out project.
-
+Remaining console.logs  in code for better understanding purposes in case someone what's to check out project.
+live demo @ https://angeli-forkify.netlify.app
+code @ https://github.com/Leandro-Andres-Angeli/forkify-v2/
