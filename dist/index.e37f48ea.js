@@ -598,9 +598,10 @@ const controlSearchResults = async ()=>{
     }
 };
 function controlUpdateServings(value) {
-    return +value > 0 ? (updatedRecipe = _model.updateRecipe(value), //importantComment
+    return +value > 0 ? (_model.updateRecipe(value), //importantComment
     //REPLACING RENDER METHOD FOR UPDATE
-    _recipeView.default.render(updatedRecipe)) : null;
+    // recipeView.default.render(updatedRecipe);
+    _recipeView.default.update(_model.state.recipe)) : null;
 //REPLACING RENDER METHOD FOR UPDATE
 //importantComment
 }
@@ -2587,7 +2588,7 @@ function updateRecipe(newQty) {
         servings: newQty,
         ingredients: (0, _helpers.updateRecipeQuantitys)(newIngredientsValues, state.recipe.ingredients)
     };
-    return state.recipe;
+// return state.recipe;
 }
 const persistBookmarks = function() {
     localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks));

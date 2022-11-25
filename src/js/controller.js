@@ -76,12 +76,12 @@ const controlSearchResults = async () => {
 };
 function controlUpdateServings(value) {
   return +value > 0
-    ? ((updatedRecipe = model.updateRecipe(value)),
+    ? (model.updateRecipe(value),
       //importantComment
       //REPLACING RENDER METHOD FOR UPDATE
-      recipeView.default.render(updatedRecipe))
-    : // recipeView.default.update(updatedRecipe)
-      null;
+      // recipeView.default.render(updatedRecipe);
+      recipeView.default.update(model.state.recipe))
+    : null;
   //REPLACING RENDER METHOD FOR UPDATE
   //importantComment
 }
