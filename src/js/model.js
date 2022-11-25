@@ -15,6 +15,7 @@ export const state = {
     results: [],
   },
 };
+
 export const initBookmarks = () =>
   (state.bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || []);
 const createRecipeObject = data => {

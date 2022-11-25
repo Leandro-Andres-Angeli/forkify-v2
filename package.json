@@ -16,6 +16,7 @@
     "@parcel/transformer-sass": "^2.8.0",
     "crypto-browserify": "^3.12.0",
     "events": "^3.3.0",
+    "os-browserify": "^0.3.0",
     "parcel": "^2.8.0",
     "path-browserify": "^1.0.1",
     "process": "^0.11.10",
@@ -28,6 +29,7 @@
   },
   "dependencies": {
     "core-js": "^3.26.1",
+    "dotenv": "^16.0.3",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.10"
   }
